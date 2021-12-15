@@ -15,7 +15,7 @@ plt.xlabel('x - axis')
 plt.ylabel('y - axis')
 	
 # giving a title to my graph
-plt.title('My first graph!')
+plt.title('My first commit!')
 	
 # function to show the plot
 plt.show()
